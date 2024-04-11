@@ -10,5 +10,5 @@ Codesoft internship repository
 ![Jewellery e-commerce website](https://github.com/BS14192227/Codsoft/assets/116246061/1446b0f1-ca4d-42e2-923e-aab9846d5110)
 
 
-
+https://www.figma.com/file/QswLVNNlgla29HGe7yRMgO/E-mail-template?type=design&node-id=0%3A1&mode=design&t=MWJxiObKFL1sI61W-1
 
